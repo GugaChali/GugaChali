@@ -7,6 +7,12 @@
 
 🎮 At first, I'm a gamer. After, I'm a Software Engineer.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavo-monteiro-pedro-3799613ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 </div>
 
 ---
