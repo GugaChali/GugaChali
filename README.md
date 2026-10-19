@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**GugaChali/GugaChali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey, I'm GugaChali! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aspiring Software Engineer 💻
+
+🎮 At first, I'm a gamer. After, I'm a Software Engineer.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🐍 Currently learning Python with Harvard's CS50P.
+- 📊 Experienced with Excel and learning Power BI.
+- 🌎 Improving my English and exploring software engineering.
+- 🚀 Building my skills one project at a time.
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📌 My Projects
+
+- 🧮 **Python Calculator** — a calculator project I'm developing while learning Python.
+
+---
+
+<div align="center">
+
+*Learning today. Building tomorrow. 🚀*
+
+</div>
