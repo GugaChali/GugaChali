@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Gustavo! 👋
+# Hey, I'm Gustavo(or Gugachali)! 👋
 
 ### Aspiring Software Engineer 💻
 
