@@ -39,8 +39,7 @@ Building software, learning by doing, and turning ideas into real-world projects
 | Project | Description | Technologies |
 |---|---|---|
 | [AutoDashboard](https://github.com/GugaChali/Autodashboard) | Data analysis and visualization application in development, focused on transforming datasets into useful insights. | Python, Streamlit |
-| 
-- | [DEV_CITY](https://github.com/GugaChali/DEV_CITY) | Interactive web interface for character selection and front-end development practice. | HTML5, CSS3, JavaScript |
+| [DEV_CITY](https://github.com/GugaChali/DEV_CITY) | Interactive web interface for character selection and front-end development practice. | HTML5, CSS3, JavaScript |
 | [Python Calculator](https://github.com/GugaChali/Calculadora-Python) | Command-line calculator supporting arithmetic operations, powers, roots, percentages, and expression evaluation. | Python |
 
 
